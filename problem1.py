@@ -8,6 +8,5 @@ print(grades)
 
 
 # Task 2: Calculate the average grade and print it.
-
 average = sum(grades) / len(grades)
 print(average)
