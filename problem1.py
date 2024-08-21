@@ -4,9 +4,9 @@
 grades = [85, 90, 78, 88, 76, 95, 89, 80, 72, 93]
 grades.sort()
 grades.reverse()
-print(grades)
+print(f"Grades in descending order: {grades}")
 
 
 # Task 2: Calculate the average grade and print it.
 average = sum(grades) / len(grades)
-print(average)
+print(f"Average: {average}")
